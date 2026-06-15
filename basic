@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>Saw Myat Phone Thwe</h1>
+
+    <img src="https://via.placeholder.com/200" alt="My Photo" width="200">
+
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Saw Myat Phone Thwe. I am a Computer Science student.
+        I enjoy learning programming, building websites, and exploring new technologies.
+        I am currently studying abroad and working toward my future career in technology.
+    </p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Gardening</li>
+        <li>Watching Movies</li>
+        <li>Listening to Music</li>
+        <li>Learning Programming</li>
+        <li>Traveling</li>
+    </ul>
+
+    <h2>Skills</h2>
+
+    <table border="1">
+        <tr>
+            <th>Skill</th>
+            <th>Level</th>
+        </tr>
+
+        <tr>
+            <td>HTML</td>
+            <td>Beginner</td>
+        </tr>
+
+        <tr>
+            <td>CSS</td>
+            <td>Beginner</td>
+        </tr>
+
+        <tr>
+            <td>C#</td>
+            <td>Intermediate</td>
+        </tr>
+
+        <tr>
+            <td>SQL</td>
+            <td>Intermediate</td>
+        </tr>
+
+        <tr>
+            <td>Python</td>
+            <td>Intermediate</td>
+        </tr>
+    </table>
+
+</body>
+</html>
